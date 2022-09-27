@@ -4,12 +4,12 @@
   padding: 0;
 }
 body {
-  font-family: Tahoma, Arial;
+  font-family: Tahoma, Arial, serif;
 }
 .slider-container {
   margin: 10px auto;
-  width: 600px;
-  height: 260px;
+  width: 800px;
+  height: 600px;
   position: relative;
 }
 .slider-container img {
